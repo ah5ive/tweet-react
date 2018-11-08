@@ -1,0 +1,21 @@
+
+
+.wrapper{
+		background-color: pink;
+		font-family: sans-serif;
+		margin: auto;
+		width: 50%;
+
+}
+/*.container {
+	width: 680px;
+
+}*/
+.container ul {
+    list-style: none;
+    text-align: left;
+    }
+
+.container h2 {
+	text-align: center;
+}
